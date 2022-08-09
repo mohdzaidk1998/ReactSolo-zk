@@ -1,0 +1,81 @@
+#navigation .form-control {
+  border: 3px solid #fc7777 !important;
+  border-radius: 1.25rem !important;
+  filter: drop-shadow(2px 4px 6px #fc777777);
+  width: 300px !important;
+}
+
+.search-icon {
+  right: 18.5rem;
+}
+
+@media (max-width:991px) {
+  .navbar-collapse-md {
+    margin-left: 5px;
+    position: absolute;
+    background-color: #212529;
+    top: 55px;
+    right: 55px;
+  }
+}
+
+.search-icon-l {
+  margin-left: -53px;
+  margin-top: -4px;
+}
+
+.solo-icon {
+  width: 115px;
+  margin-left: 30px;
+}
+
+.navbar {
+  width: 100%;
+  background-color: white;
+}
+
+.basic-nav-dropdown {
+  color: black;
+}
+
+.dropdown-content {
+  text-align: center;
+  background-color: lightgrey;
+  border: 2.8497px solid #ff6c36;
+  border-width: 1px;
+  margin-left: -97px;
+  border-radius: 42.7455px;
+}
+
+.dropdown-content a {
+  text-decoration: none;
+}
+
+.dropdown-menu hr {
+  color: #ff6c36;
+  border-width: 1px;
+  opacity: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  background-color: #c4e3f8;
+  text-decoration: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-menu {
+  padding: 0px;
+}
+.sparkhome{
+  margin-top: 10px;
+}
+.twitterhome{
+  margin-bottom: 10px;
+}
+.abouthome,.twitterhome,.sparkhome,.LinkedInhome,.careerhome{
+  color: #ff6c36;
+}

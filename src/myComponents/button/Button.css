@@ -1,0 +1,14 @@
+.button {
+    width: 74.99px;
+    height: 20.8px;
+    font-size: 11px;
+    margin-left: 22px;
+    margin-top: 10px;
+    background: #fff4f0;
+    border: 0.949901px solid #ff6c36;
+    border-radius: 42.7455px;
+    color: #ff6c36;
+    border-radius: 42.7455px;
+    display: flex;
+    justify-content: center;
+  }
